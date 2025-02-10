@@ -2,7 +2,7 @@ package com.programs;
 
 public class ReverseAString {
 
-	// Method 1 - Using buffer
+	// Method 1 - Using bufferorBuild
 	public void usingBuffer() {
 		String given = "Appu";
 		StringBuffer buffer = new StringBuffer();
